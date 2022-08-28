@@ -3,8 +3,9 @@
 ## Some things about me:
 - 🏫 I'm enrolled at the University of Tennessee @ Martin
 - 🖥️ I'm majoring in Computer Science
-- 🕹️ Currently working on some personal game projects
-- ✏️ I love drawing and reading manga!
+- 📃 Very interested in writing stories
+- ✏️ Have been making pixel art for a while
+- 🗿 My favorite animal is the Capybara
 
 ## Contact Info:
 
