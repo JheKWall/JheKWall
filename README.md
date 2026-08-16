@@ -2,10 +2,12 @@
 
 You can contact me at jhekwall@ut.utm.edu
 
+You can also check out my portfolio here: [jhekwall.github.io](https://jhekwall.github.io/)
+
 Interesting analysis projects:
-- [Comparative analysis of incoming full-time freshmen to completion rates at UTM and nearby institutions]()
-- [Comparative analysis of Godot, Unity, and Unreal engine for 3D game development]()
-- [Comparative analysis of existing, developing, and speculative spacecraft propulsion methods]()
+- [Student Completion Outcomes at UT Martin and Nearby Institutions (2026)](https://jhekwall.github.io/utm-ipeds-2026/)
+- [Comparison of Spacecraft Propulsion Systems (2025)](https://jhekwall.github.io/spacecraft-propulsion-2025/)
+- [Comparison of 3D Game Development Engines (2024)](https://jhekwall.github.io/game-dev-engines-2024/)
 
 Interesting programming assignments:
 - [Unit Testing implementation for a fake banking system](https://github.com/JheKWall/CW13-Unit-Testing)
